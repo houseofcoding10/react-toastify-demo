@@ -1,0 +1,41 @@
+* {
+  /* padding: 0;
+  margin: 0;
+  box-sizing: border-box; */
+  font-family: 'Poppins', sans-serif;
+}
+
+div.button-container {
+  margin: 20px;
+}
+
+button.button {
+  padding: 14px 18px;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  width: 220px;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+}
+
+.primary {
+  background-color: #4285f4;
+}
+
+.secondary {
+  background-color: #0f9d58;
+}
+
+.dark {
+  background-color: #000000;
+}
+
+.warning {
+  background-color: #f4b400;
+}
